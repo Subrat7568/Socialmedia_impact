@@ -1,4 +1,5 @@
 # Social Media Impact on Student Life — Dashboard
+#link:https://socialmediaimapact.netlify.app/
 
 Interactive dashboard analyzing the relationship between social media usage, sleep duration, and sleep quality among 4,500 students.
 
@@ -15,5 +16,3 @@ Interactive dashboard analyzing the relationship between social media usage, sle
 ## Run locally
 Just open `index.html` in a browser.
 
-## Live Demo
-Deployed via GitHub Pages: `https://<your-username>.github.io/<repo-name>/`
